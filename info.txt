@@ -1,5 +1,5 @@
 {
   "Name": "Anurag",
-  "Course": "3MCA-B",
-  "University": "Christ University"
+  "Age": "23",
+  "BMI": "22.3"
 }
